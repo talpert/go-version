@@ -1,3 +1,3 @@
 package bar
 
-const Bar = "BAR"
+const Bar = "BAR1"
