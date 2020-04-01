@@ -1,3 +1,3 @@
 package foo
 
-const Foo = "FOO"
+const Foo = "FOO2"
